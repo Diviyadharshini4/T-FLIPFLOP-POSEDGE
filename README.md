@@ -65,4 +65,4 @@ RegisterNumber:24008491
 ![image](https://github.com/user-attachments/assets/38f2dbfa-ba63-4fac-84c2-b0d07fb5a3d4)
 
 **RESULTS**
-T flipflop using verilog is verified.
+T flipflop using verilog is verified. 
